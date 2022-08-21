@@ -11,7 +11,4 @@ class Home extends Controller{
         $this->view('templates/footer');
     }
 
-    public function page(){
-        echo 'home/page';
-    }
 }
